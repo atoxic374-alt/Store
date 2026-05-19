@@ -1,0 +1,28 @@
+{
+  "globalStreaming": {
+    "watchUrl": "https://www.twitch.tv/example",
+    "applicationId": "1109522937989562409",
+    "details": "Playing something cool -- {hour}:{min}",
+    "state": "Having fun -- {city} {temp_c}c",
+    "largeImageUrl": "",
+    "largeImageText": "Stream",
+    "smallImageUrl": "",
+    "smallImageText": "",
+    "button1Name": "My insta",
+    "button1Url": "https://www.twitch.tv/yourname",
+    "button2Name": "",
+    "button2Url": "",
+    "delay": 15,
+    "city": "Bangkok",
+    "showTimestamp": true
+  },
+  "tokenConfigs": [
+    {
+      "id": "14dcb66c-ac42-48cc-b9dd-1f2276ba99c2",
+      "token": "MTAzMzgzMTQyMjgxMDY2OTEyNg.G6HCAg.WnWz1pLh0zf6J13sJYepzQq844dsWojiy_vyf0",
+      "useGlobal": true,
+      "streaming": {}
+    }
+  ],
+  "activeTokens": []
+}
